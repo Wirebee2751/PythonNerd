@@ -1,2 +1,2 @@
 # PythonNerd
-i am learning pyton
+i am learning python
